@@ -1,6 +1,6 @@
 ID='julianb@bu.edu'
-CLIENT='PWD7ptUk1XEgx3fi5YnE7Q'
-TOKEN='lgbHaYJ5MVr9t7YCW2Ax6g'
+CLIENT='oNecM5suD3ZGzscvsriR1g'
+TOKEN='R0FqeIYoqtDu1p6q9-0ByQ'
 
 API="${API_ORIGIN:-http://localhost:3000/auth}"
 URL_PATH="/"

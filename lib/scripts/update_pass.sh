@@ -1,7 +1,7 @@
 ID='julianb@bu.edu'
-CLIENT='yHXd6WkQerS97J9d_2ztGQ'
-TOKEN='cagc4HOdt-3IOT-mFzFGbg'
-CURR_PASSWORD='TestPass123'
+CLIENT='0knjHFlO3ExlKFwoBU_7tA'
+TOKEN='yqqQ5WN13RHUxRUAJoQocQ'
+CURR_PASSWORD='TestPass1234'
 PASSWORD='TestPass1234'
 
 API="${API_ORIGIN:-http://localhost:3000/auth}"

@@ -1,5 +1,5 @@
 EMAIL='julianb@bu.edu'
-PASSWORD='TestPass123'
+PASSWORD='TestPass1234'
 
 API="${API_ORIGIN:-http://localhost:3000/auth}"
 URL_PATH="/sign_in"
